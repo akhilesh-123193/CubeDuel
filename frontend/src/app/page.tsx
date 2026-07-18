@@ -398,7 +398,7 @@ export default function Home() {
                   className="group/btn relative flex items-center gap-2 px-6 py-2.5 rounded-xl bg-white/5 hover:bg-white/10 transition-all disabled:opacity-50 disabled:cursor-not-allowed overflow-hidden justify-center shrink-0"
                 >
                   {isScrambling ? <Loader2 className="w-4 h-4 animate-spin text-white" /> : <Shuffle className="w-4 h-4 text-blue-400 group-hover/btn:rotate-12 transition-transform" />}
-                  <span className="font-semibold tracking-wide text-sm">Auto</span>
+                  <span className="font-semibold tracking-wide text-sm">Scramble</span>
                 </button>
                 
                 <button 
