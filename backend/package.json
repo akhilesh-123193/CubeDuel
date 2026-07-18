@@ -1,0 +1,8 @@
+{
+  "name": "cubeduel-backend",
+  "version": "1.0.0",
+  "description": "FastAPI backend for CubeDuel",
+  "scripts": {
+    "backend": "PYTHONPATH=. venv/bin/python -m uvicorn main:app --reload"
+  }
+}
