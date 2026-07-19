@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>CubeDuel 🧊</h1>
+  <h1>Cube Duel 🧊</h1>
   
   <p><b>A High-Performance Algorithmic Visualization Engine & Rubik's Cube Solver</b></p>
 
